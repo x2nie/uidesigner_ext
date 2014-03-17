@@ -1,0 +1,9 @@
+*.[oa]
+*.ppu
+*.lps
+*.compiled
+*.bak*
+*.tmp
+*.res
+src/*.exe
+src/units/*.*
